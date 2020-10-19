@@ -18,6 +18,10 @@ class CustomText(models.Model):
         null=True,
         blank=True,
     )
+    hgfjhghgkjjhg = models.PositiveSmallIntegerField(
+        null=True,
+        blank=True,
+    )
 
     def __str__(self):
         return self.title
