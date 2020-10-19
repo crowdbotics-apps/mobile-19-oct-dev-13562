@@ -18,7 +18,7 @@ class CustomText(models.Model):
         null=True,
         blank=True,
     )
-    hgfjhghgkjjhg = models.PositiveSmallIntegerField(
+    hjgfjgjfgjgjghfjhf = models.PositiveSmallIntegerField(
         null=True,
         blank=True,
     )
