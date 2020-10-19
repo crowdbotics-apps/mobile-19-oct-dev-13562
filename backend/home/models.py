@@ -10,18 +10,6 @@ class CustomText(models.Model):
     title = models.CharField(
         max_length=150,
     )
-    jhgjhghjgfjhjg = models.BigIntegerField(
-        null=True,
-        blank=True,
-    )
-    hghgjhgj = models.PositiveSmallIntegerField(
-        null=True,
-        blank=True,
-    )
-    hjgfjgjfgjgjghfjhf = models.PositiveSmallIntegerField(
-        null=True,
-        blank=True,
-    )
 
     def __str__(self):
         return self.title
